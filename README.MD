@@ -4,11 +4,17 @@ This is a simple android app which I made as a test task. It's a Music Managemen
 
 Features
 ---
-* You can save/remove your favorite artist's songs and view them in the main screen.
+* You can save/remove your favorite artist's albums and view them in the main screen (albums are saved locally).
 * Search for artists - view all artists' songs
 * Search for albums - Detailed view about the album which displays information including all the songs
 * View Artists' top albums
 * Redirect to the song's or artist's LastFM Page
+
+* The album information that are retrieved from the LastFM API are: 
+  * Name
+  * Artist
+  * Image
+  * Tracks
 
 Library and Source used
 ---
